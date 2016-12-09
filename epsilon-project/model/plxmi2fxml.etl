@@ -1,0 +1,4 @@
+rule plxmi2fxml
+	transform t : Plxmi!Ecore
+	to n : XML!XML {
+}

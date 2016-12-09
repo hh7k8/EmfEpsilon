@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<epsilonProject:PipeLine xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:epsilonProject="http://www.example.org/epsilonProject" xsi:schemaLocation="http://www.example.org/epsilonProject epsilonProject.ecore" name="Northern Gateway">
+  <station name="Edson" milePost="60.0"/>
+  <station name="Kamloops" milePost="200.0"/>
+</epsilonProject:PipeLine>
